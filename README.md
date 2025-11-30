@@ -32,7 +32,7 @@ API_KEY = "your_api_key_here"
 ## Instalation
 1. Clone the Repository
 ```bash
-git clone https://github.com/DevManoj96/Python-Chatbot.git
+git clone https://github.com/VoinFeix/Python-Chatbot.git
 cd Python-Chatbot
 ```
 2. Run the program
